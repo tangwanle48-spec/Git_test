@@ -6,5 +6,6 @@ int main()
     printf("this is my second version\n");
 printf("Camera Init\n");
 printf("from main\n");
+printf("clone from\n");
     return 0;
 }
