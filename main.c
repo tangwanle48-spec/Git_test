@@ -7,5 +7,6 @@ int main()
 printf("Camera Init\n");
 printf("from main\n");
 printf("clone from\n");
+printf("camera function\n");
     return 0;
 }
