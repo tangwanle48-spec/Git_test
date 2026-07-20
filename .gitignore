@@ -1,0 +1,9 @@
+*.exe
+*.o
+build/
+*.elf
+*.bin
+*.map
+Debug/
+Release/
+*.txt
